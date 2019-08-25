@@ -1,0 +1,19 @@
+# idea
+.idea/
+
+# Logs
+logs
+*.log
+*.iml
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Output
+build/
+
+# coverage
+coverage/
