@@ -1,6 +1,10 @@
 # nodejs-fullstack-app
 
-## Pre -req
+## Intro
+
+This is fullstack nodejs application to fetch user details and list of hotel he likes.
+As of now only API's are built, UI is in progress with NextJs server side rendering.
+
 
 Versions used
 
